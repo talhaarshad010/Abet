@@ -1,0 +1,9 @@
+export const LOGIN_USER_REQ = 'LOGIN_USER_REQ';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILER = 'LOGIN_USER_FAILER';
+
+export const LOGIN_USER_UPDATE = 'LOGIN_USER_UPDATE';
+
+export const DARK_MODE = 'DARK_MODE';
+
+export const SPLASH_BOOL = 'SPLASH_BOOL';
